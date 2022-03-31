@@ -1,6 +1,8 @@
 ### Oiie! Eu sou a Rebeca Azevedo 
 
 - 🔭 Hoje trabalho como técnico em T.I. e desenvolvedora de sites
+- 💪 Domino o front-end
+- 💻 Estudando React.Js, Next.Js e TypeScript
 <div align="center">
   <a href="https://github.com/reazevedo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reazevedo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
