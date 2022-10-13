@@ -1,6 +1,6 @@
 ### Oiie! Eu sou a Rebeca Azevedo 
 
-- 🔭 Hoje trabalho como técnico em T.I. e desenvolvedora de sites
+- 🔭 Hoje trabalho como desenvolvedora FronEnd na WX3-ecommerce
 - 💪 Domino o front-end
 - 💻 Estudando React.Js, Next.Js e TypeScript
 <div align="center">
