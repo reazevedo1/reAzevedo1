@@ -1,7 +1,7 @@
 ### Oiie! Eu sou a Rebeca Azevedo 
 
 - 🔭 Hoje trabalho como desenvolvedora FronEnd na WX3-ecommerce
-- 🌟 Curso Sistemas de Informação no CEFET/RJ
+- 🌟 Curso Sistemas de Informação no CEFET/RJ (campus NF)
 - 🐺 Me formei em 2022 como técnico em informática pelo CEFET/RJ (campus NF)
 - 💪 Domino o front-end
 - 💻 Estudando React.Js, Next.Js e TypeScript
