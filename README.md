@@ -3,8 +3,8 @@
 - 🔭 Hoje trabalho como desenvolvedora FronEnd na WX3-ecommerce
 - 🐺 Curso Sistemas de Informação no CEFET/RJ (campus NF)
 - 🐺 Me formei em 2022 como técnico em informática pelo CEFET/RJ (campus NF)
-- 💪 Domino o front-end
-- 💻 Estudando React.Js, Next.Js e TypeScript
+- 💪 Domino o frontend
+- 💻 Estudando React.Js/Next.Js e TypeScript
 <div align="center">
   <a href="https://github.com/reazevedo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reazevedo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
