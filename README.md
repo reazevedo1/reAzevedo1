@@ -9,6 +9,7 @@
 ⚠️A maior parte dos meus projetos está hospedada no GitLab, pois são repositórios privados relacionados ao meu trabalho. Por isso, minhas contribuições públicas aqui no GitHub são limitadas. No entanto, continuo ativa e constantemente aprimorando minhas habilidades e aprendendo novas tecnologias.
 Se quiser conhecer meu portfólio com projetos mais recentes, sinta-se à vontade para entrar em contato comigo!⚠️
 
+
 <div align="center">
   <a href="https://github.com/reazevedo1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reazevedo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
